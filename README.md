@@ -73,6 +73,5 @@ This is a simple Student Management System web application built using:
 ## Author
 
 This project is made for learning purposes.
-```
 
 ---
